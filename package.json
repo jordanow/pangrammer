@@ -1,0 +1,16 @@
+{
+  "name": "pangrammer",
+  "version": "1.0.0",
+  "description": "Find if the given sting is a pangram.",
+  "main": "main.js",
+  "scripts": {
+    "start": "npm install && node main.js",
+    "test": "npm install && mocha tests.js"
+  },
+  "keywords": [
+    "pangram"
+  ],
+  "author": "Shailendra Pal",
+  "license": "ISC",
+  "dependencies": {}
+}

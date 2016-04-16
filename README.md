@@ -31,3 +31,14 @@ Sample Output #1
 x
 1
 sy
+
+## Environment
+
+ - The following software will run in any machine which has NodeJS installed.
+
+## How to run
+ - To run the app, simply type npm start and pass the parameters. Eg. `npm start 4,"big brown","cold war","fox jumped","on the wall"`
+## Testing
+
+ - Run npm install -g mocha before running the test cases.
+ - To run the tests, type npm test.
